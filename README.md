@@ -1,8 +1,16 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped explains geocoding addresses with react-geocode and displaying it on the map with google-map-react.
 
-## Available Scripts
+Demo Available on CodeSandbox.
+
+The project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). So, all inbuilt commands work.
+
+## Available scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Installs all project dependencies
 
 ### `npm start`
 

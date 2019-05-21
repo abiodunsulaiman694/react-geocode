@@ -1,7 +1,7 @@
 import React from "react";
-import Button from "antd";
+import { Button } from "antd";
 
-function Marker() {
+function Marker(props) {
   return (
     <div style={{ display: "block", position: "absolute" }}>
       <Button
